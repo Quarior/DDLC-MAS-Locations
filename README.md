@@ -1,4 +1,4 @@
-# Doki Doki Literature Club: Monika After Story: Quarior's Location
+# Doki Doki Literature Club: Monika After Story: Quarior's Locations
 You can find the original mod (DDLC: MAS) here: https://github.com/Monika-After-Story/MonikaModDev.
 
 ## Features
