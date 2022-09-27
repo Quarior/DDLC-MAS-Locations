@@ -1,7 +1,4 @@
-# Doki Doki Literature Club: Monika After Story: Quarior Location
-Some locations I create for Doki Doki Literature Club: Monika After Story
-
-# Doki Doki Literature Club: Monika After Story: Doctor Who TARDIS
+# Doki Doki Literature Club: Monika After Story: Quarior's Location
 You can find the original mod (DDLC: MAS) here: https://github.com/Monika-After-Story/MonikaModDev.
 
 ## Features
